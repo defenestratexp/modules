@@ -5,3 +5,4 @@ while read item
   do
     echo $item
   done <submodules/datafile.txt
+echo "Adding a line for change #4"
