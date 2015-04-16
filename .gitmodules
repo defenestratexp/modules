@@ -1,3 +1,6 @@
 [submodule "submodules"]
 	path = submodules
 	url = https://github.com/defenestratexp/submodules.git
+[submodule "module_foo"]
+	path = module_foo
+	url = https://github.com/defenestratexp/module_foo.git
